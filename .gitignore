@@ -1,0 +1,12 @@
+.build/
+.build-server/
+.swiftpm/
+DerivedData/
+*.xcodeproj/xcuserdata
+*.xcworkspace/xcuserdata
+.swiftnext.server.pid
+swiftnext.db
+swiftnext.db-shm
+swiftnext.db-wal
+.DS_Store
+.env
